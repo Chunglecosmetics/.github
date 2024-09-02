@@ -8,10 +8,10 @@ Before going any further, make sure you read the [code of conduct](CODE_OF_CONDU
 
 #### Table Of Contents
 
-- [Workflow Overview](#workflow-overview)
-- [Creating a Fork](#creating-a-fork)
-- [Cloning a Fork](#cloning-a-fork)
-  - [Using Git Command Line](#using-git-command-line)
+- [Tổng quan quy trình làm việc](#àn quan về dòng chảy công việc)
+- [Tạo nĩa](#)
+- [Nhân bản một cái nĩa](#a)
+  - [Sử dụng dòng lệnh git](#ận dụng-git-truyền chỉ huy)
   - [Using GitHub Desktop / GitKraken](#using-github-desktop--gitkraken)
   - [Using GitHub CLI](#using-github-cli)
 - [Create a Local Branch](#create-a-local-branch)
@@ -20,8 +20,8 @@ Before going any further, make sure you read the [code of conduct](CODE_OF_CONDU
   - [From the command line](#from-the-command-line)
 - [Push Commits](#push-commits)
 - [Create a Pull Request](#create-a-pull-request)
-  - [PR Checkout Tip](#pr-checkout-tip)
-- [Sync your Fork](#sync-your-fork)
+  - [Mẹo PR Checkout](#ip)
+- [Đồng bộ cái nĩa](#y-nông)
   - [Syncing with uncommitted changes](#syncing-with-uncommitted-changes)
 - [Styleguides](#styleguides)
   - [Git Commit Messages](#git-commit-messages)
